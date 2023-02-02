@@ -6,8 +6,4 @@ cd JinxOsint
 
 pip install requests
 
-pip install json
-
-pip install webbrowser
-
 python3 JinxOsint.py

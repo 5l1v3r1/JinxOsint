@@ -8,6 +8,6 @@ pip install requests
 
 pip install json
 
-pip install webbrowse
+pip install webbrowser
 
 python3 JinxOsint.py

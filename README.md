@@ -5,9 +5,9 @@
 
 >git clone https://github.com/Jinx-CrazyCode/JinxOsint
 
- cd JinxOsint
+ >cd JinxOsint
 
- pip install requests
+ >pip install requests
 
- python3 JinxOsint.py>
+ >python3 JinxOsint.py
 

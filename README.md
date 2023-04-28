@@ -3,9 +3,7 @@
 
 ![screen3](https://user-images.githubusercontent.com/115872953/216691059-be3b2a22-d8f6-4c26-a6e0-3bb53c7998fb.png)
 
-# UBUNTU
-
-
+# UBUNTU OR TERMUX
 
 >git clone https://github.com/Jinx-CrazyCode/JinxOsint
 

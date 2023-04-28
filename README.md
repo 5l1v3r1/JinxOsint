@@ -5,7 +5,7 @@
 
 # UBUNTU
 
-<sudo su
+>sudo su
 
 >git clone https://github.com/Jinx-CrazyCode/JinxOsint
 

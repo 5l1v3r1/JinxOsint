@@ -4,12 +4,11 @@
 ![screen3](https://user-images.githubusercontent.com/115872953/216691059-be3b2a22-d8f6-4c26-a6e0-3bb53c7998fb.png)
 
 
+:EMOJICODE: git clone https://github.com/Jinx-CrazyCode/JinxOsint
 
-git clone https://github.com/Jinx-CrazyCode/JinxOsint
+:EMOJICODE: cd JinxOsint
 
-cd JinxOsint
+:EMOJICODE: pip install requests
 
-pip install requests
-
-python3 JinxOsint.py
+:EMOJICODE: python3 JinxOsint.py
 

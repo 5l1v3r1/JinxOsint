@@ -4,11 +4,14 @@
 ![screen3](https://user-images.githubusercontent.com/115872953/216691059-be3b2a22-d8f6-4c26-a6e0-3bb53c7998fb.png)
 
 # UBUNTU
+
+<sudo su
+
 >git clone https://github.com/Jinx-CrazyCode/JinxOsint
 
- >cd JinxOsint
+>cd JinxOsint
 
- >pip install requests
+>pip install requests
 
- >python3 JinxOsint.py
+>python3 JinxOsint.py
 
